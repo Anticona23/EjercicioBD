@@ -1,0 +1,21 @@
+//Ejemplo de atajos para no escribir la url del
+//render completa "@cualquiernombre = url"
+@atajo = ejemplo-render-cv00.onrender.com
+
+###
+GET https://{{atajo}}/demo/all
+
+###
+
+POST https://ejemplo-render-cv00.onrender.com/demo/add
+Content-Type: application/x-www-form-urlencoded
+
+name=Angely&email=cristian@gmail.com
+
+###
+
+DELETE https://ejemplo-render-cv00.onrender.com/demo/del
+Content-Type: application/x-www-form-urlencoded
+
+id=4
+###
