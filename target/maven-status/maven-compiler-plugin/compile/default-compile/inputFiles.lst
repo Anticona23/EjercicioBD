@@ -1,2 +1,5 @@
 /workspaces/EjercicioBD/src/main/java/com/example/ejemplohello/EjemploHelloApplication.java
 /workspaces/EjercicioBD/src/main/java/com/example/ejemplohello/Controller.java
+/workspaces/EjercicioBD/src/main/java/com/example/ejemplohello/UserRepository.java
+/workspaces/EjercicioBD/src/main/java/com/example/ejemplohello/ApiController.java
+/workspaces/EjercicioBD/src/main/java/com/example/ejemplohello/User.java
